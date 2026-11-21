@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/<([\\s\\S]*?)>(?=[\\s\\S]*?<\\/think>)/g",
+    "id": "eaa3a430-958d-413c-9bd3-7c43c1f8c2e6",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "$1",
+    "runOnEdit": true,
+    "scriptName": "清理思维链内标签",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

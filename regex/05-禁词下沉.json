@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/极其|由于|共犯|并不存在的/g",
+    "id": "07f1262e-36be-43a1-bf0f-c46e550178a4",
+    "markdownOnly": false,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "",
+    "runOnEdit": true,
+    "scriptName": "杀极其共犯由于并不存在的",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

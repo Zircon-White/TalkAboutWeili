@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/<music_recommend>((?:(?!<music_recommend>)[\\s\\S])*?)<\\/music_recommend>/gsi",
+    "id": "48447708-bbbc-4fe0-99cd-1ec99375239d",
+    "markdownOnly": false,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "",
+    "runOnEdit": true,
+    "scriptName": "过滤音乐推荐",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

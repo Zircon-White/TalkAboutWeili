@@ -1,0 +1,17 @@
+{
+    "disabled": true,
+    "findRegex": "/(“[\\s\\S]*?”)/g",
+    "id": "4743d4c6-05a6-44ab-8202-b1e9887e1977",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": false,
+    "replaceString": "<cite>$1</cite>\n",
+    "runOnEdit": true,
+    "scriptName": "未离的对话放大器",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/<(?!/?konatan_planning~\\s*>)([^<>]*?)>(?=(?:(?!<\\/?konatan_planning~\\s*>)[\\s\\S])*<\\/konatan_planning~\\s*>)/g",
+    "id": "716bb7d4-ede0-4504-9269-53330f5f6cb9",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": false,
+    "replaceString": "$1",
+    "runOnEdit": true,
+    "scriptName": "清理思维链内标签",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

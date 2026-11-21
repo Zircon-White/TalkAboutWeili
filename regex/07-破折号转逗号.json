@@ -1,0 +1,17 @@
+{
+    "disabled": true,
+    "findRegex": "/(?<=[\\u4e00-\\u9fa5])——(?=[\\u4e00-\\u9fa5])/g",
+    "id": "c3e6bf42-fa71-4d4b-9500-5eae91533d65",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "，",
+    "runOnEdit": true,
+    "scriptName": "破折号处理",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

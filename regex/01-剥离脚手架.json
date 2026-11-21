@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/(<disclaimer>.*?</disclaimer>)|(<guifan>.*?</guifan>)|(<danmu>.*?</danmu>)|(<options>.*?</options>)|```start|```end|<done>|`<done>`|(.*?</think(ing)?>(\\\\n)?)|(<think(ing)?>[\\\\s\\\\S]*<\\\\/think(ing)?>(\\\\n)?)|(.*?</konatan_planning~>(\\n)?)/gs",
+    "id": "ce63db67-3566-4c6f-bc46-43d4c2da990a",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "",
+    "runOnEdit": true,
+    "scriptName": "去多余内容",
+    "substituteRegex": 0,
+    "trimStrings": []
+}

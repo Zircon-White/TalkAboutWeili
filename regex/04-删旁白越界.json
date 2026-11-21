@@ -1,0 +1,17 @@
+{
+    "disabled": false,
+    "findRegex": "/叙述者觉得|叙述者在这里必须跑个题，/g",
+    "id": "fc58fad9-30c0-4cd3-ae3b-4247b67f64d7",
+    "markdownOnly": true,
+    "maxDepth": null,
+    "minDepth": null,
+    "placement": [
+        2
+    ],
+    "promptOnly": true,
+    "replaceString": "",
+    "runOnEdit": true,
+    "scriptName": "叙述者什么都不觉得",
+    "substituteRegex": 0,
+    "trimStrings": []
+}
